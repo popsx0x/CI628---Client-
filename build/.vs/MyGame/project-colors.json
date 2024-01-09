@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "232a02f2-0d11-3d2d-a8d4-d2ffbe40da09": {
+      "ProjectGuid": "232a02f2-0d11-3d2d-a8d4-d2ffbe40da09",
+      "DisplayName": "MyGame",
+      "ColorIndex": 0
+    },
+    "68cc1bcd-1ffa-3a84-b47c-527385a0233d": {
+      "ProjectGuid": "68cc1bcd-1ffa-3a84-b47c-527385a0233d",
+      "DisplayName": "ALL_BUILD",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
